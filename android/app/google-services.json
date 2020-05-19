@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232053292049",
+    "firebase_url": "https://covid-tracker-30407.firebaseio.com",
+    "project_id": "covid-tracker-30407",
+    "storage_bucket": "covid-tracker-30407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232053292049:android:f0b9758fd4984bcb30c5b0",
+        "android_client_info": {
+          "package_name": "com.manav.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232053292049-a5abchb99qoc6qv53bgjjeufn69mtbo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxbJNEVse3eT9MQ7sFKsqUJRI_K96eOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232053292049-a5abchb99qoc6qv53bgjjeufn69mtbo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
