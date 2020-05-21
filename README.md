@@ -1,6 +1,8 @@
 # covidtracker
 
-A new Flutter application.
+COVID19 TRACKER FOR MY CITY
+
+![working demo](20200521_220739.gif)
 
 ## Getting Started
 
